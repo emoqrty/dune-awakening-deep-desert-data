@@ -1,0 +1,1710 @@
+[
+  {
+    "weekOf": "2026-09-15",
+    "resetNote": "Weekly Deep Desert reset (local time): North America Tue 10:00 · South America Tue 08:00 · Europe Tue 03:00 · Oceania Mon 19:00 · Asia Mon 21:00 [verified, Funcom]. The ~8–10 hour sandstorm buildup and the wipe at storm peak are a third-party community observation; Funcom has confirmed the weekly reset and the Monday-to-Tuesday storm window but has not published an official buildup duration. [third-party]",
+    "sandstorm": "8–10 hour buildup (third-party) · wipe at storm peak",
+    "grid": {
+      "rows": "A–I",
+      "cols": "1–9",
+      "pveRows": "A–E",
+      "pvpRows": "F–I",
+      "pvpMultiplier": "2.5x mining and spice yield in the PvP instance, officially confirmed in Funcom's help-center PvP FAQ [verified, Funcom]"
+    },
+    "shieldWall": "Fixed along rows A/B",
+    "locations": [
+      {
+        "name": "Testing Station: The Living Quarters",
+        "grid": "G6",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Testing Station: Mannequin Manor",
+        "grid": "C7",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Testing Station: The Forgotten Cells",
+        "grid": "G3",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Testing Station: The Agave Farm",
+        "grid": "D2",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "D6",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "C3",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "G7",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "I7",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "B9",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "F7",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "D3",
+        "note": "Downed wreck site"
+      }
+    ],
+    "mk6Pool": [
+      "Collapsible Dew Reaper Mk6 (Tools)",
+      "Filter Extractor Mk6 (Tools)"
+    ],
+    "lootTable": [
+      {
+        "item": "Filter Extractor Mk6",
+        "source": "Loot Caves D6/C3/G7/I7/B9, 8%"
+      },
+      {
+        "item": "Collapsible Dew Reaper Mk6",
+        "source": "Loot Caves under 1%; Wrecks and Downed Ships 4–6%"
+      },
+      {
+        "item": "Feyd's Drinker",
+        "source": "Testing Stations G6/C7/G3/D2, 5%"
+      },
+      {
+        "item": "Glasser",
+        "source": "Testing Stations, under 1%"
+      },
+      {
+        "item": "Desert Garb",
+        "source": "Loot Caves, 4%"
+      },
+      {
+        "item": "Hook-claw Gloves",
+        "source": "Loot Caves, 4%"
+      },
+      {
+        "item": "Crew Chief's Stillsuit Garment",
+        "source": "Loot Caves, under 1%"
+      },
+      {
+        "item": "Imperial Stillsuit Boots",
+        "source": "Loot Caves, under 1%"
+      },
+      {
+        "item": "Imperial Stillsuit Garment",
+        "source": "Loot Caves, under 1%"
+      },
+      {
+        "item": "Imperial Stillsuit Gloves",
+        "source": "Loot Caves, under 1%"
+      },
+      {
+        "item": "Imperial Stillsuit Mask",
+        "source": "Loot Caves, under 1%"
+      }
+    ],
+    "status": "live",
+    "note": "Rotation compiled from a third-party community companion tool. This is not an official Funcom data feed; drop rates are community-reported and approximate. First-week recording was incomplete; spawn and Mk6 counts reflect partial coverage."
+  },
+  {
+    "weekOf": "2026-09-22",
+    "resetNote": "Weekly Deep Desert reset (local time): North America Tue 10:00 · South America Tue 08:00 · Europe Tue 03:00 · Oceania Mon 19:00 · Asia Mon 21:00 [verified, Funcom]. The ~8–10 hour sandstorm buildup and the wipe at storm peak are a third-party community observation; Funcom has confirmed the weekly reset and the Monday-to-Tuesday storm window but has not published an official buildup duration. [third-party]",
+    "sandstorm": "8–10 hour buildup (third-party) · wipe at storm peak",
+    "grid": {
+      "rows": "A–I",
+      "cols": "1–9",
+      "pveRows": "A–E",
+      "pvpRows": "F–I",
+      "pvpMultiplier": "2.5x mining and spice yield in the PvP instance, officially confirmed in Funcom's help-center PvP FAQ [verified, Funcom]"
+    },
+    "shieldWall": "Fixed along rows A/B",
+    "locations": [
+      {
+        "name": "Wreck of the Eumenes (A1)",
+        "grid": "A1",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck of the Hicetas (A1)",
+        "grid": "A1",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 37 (A2)",
+        "grid": "A2",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Hyperbatas (A2)",
+        "grid": "A2",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck of the Archidamas III (A3)",
+        "grid": "A3",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 185 (A3)",
+        "grid": "A3",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Cycliadas (A3)",
+        "grid": "A3",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 148 (A4)",
+        "grid": "A4",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Dioedas (A4)",
+        "grid": "A4",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck of the Xenophon (A5)",
+        "grid": "A5",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 93 (A5)",
+        "grid": "A5",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Proxenus (A7)",
+        "grid": "A7",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 186 (A8)",
+        "grid": "A8",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Orsippus (A9)",
+        "grid": "A9",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 217 (A9)",
+        "grid": "A9",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Stasanor (A9)",
+        "grid": "A9",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "B5",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "C1",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "C2",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "C4",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "C5",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "C8",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Testing Station: The Hidden Garden",
+        "grid": "D1",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "D3",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Testing Station: The Living Quarters",
+        "grid": "D5",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "D6",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "D8",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "E3",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "E8",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Testing Station: Mannequin Manor",
+        "grid": "E8",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "F1",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Testing Station: The Spice Silo",
+        "grid": "F4",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Testing Station: The Spice Sanctum",
+        "grid": "F6",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Testing Station: The Furnace",
+        "grid": "F7",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "F7",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "G2",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "G3",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "G4",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "G7",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "G8",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Testing Station: The Agave Farm",
+        "grid": "H2",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "H4",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "H5",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Wreck: The Holy Wreck",
+        "grid": "H6",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck: The Command Centre",
+        "grid": "H6",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Testing Station: The Water Plant",
+        "grid": "H8",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Testing Station: The Forgotten Cells",
+        "grid": "I1",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "I5",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Testing Station: The Yellow Bunker",
+        "grid": "I8",
+        "note": "Buried Testing Station"
+      }
+    ],
+    "mk6Pool": [
+      "Albatross Wing Module Mk6 (Weapons)",
+      "Bigger Buggy Boot Mk6 (Vehicle Components)",
+      "Bluddshot Buggy Engine Mk6 (Garments)",
+      "Collapsible Dew Reaper Mk6 (Garments)",
+      "Compact Compactor Mk6",
+      "Compact Compactor Mk6 (Vehicle Components)",
+      "Filter Extractor Mk6 (Weapons)",
+      "Focused Buggy Cutteray Mk6",
+      "Focused Buggy Cutteray Mk6 (Tools)",
+      "Hummingbird Wing Module Mk6 (Garments)",
+      "Impure Extractor Mk6 (Vehicle Components)",
+      "Mohandis Sandbike Engine Mk6 (Vehicle Components)",
+      "Night Rider Sandbike Boost Mk6 (Garments)",
+      "Rattler Boost Module Mk6 (Vehicle Components)",
+      "Steady Assault Boost Module Mk6 (Vehicle Components)",
+      "Steady Carrier Boost Module Mk6 (Vehicle Components)",
+      "Steady Treadwheel Boost Module Mk6 (Vehicle Components)",
+      "Stormrider Boost Module Mk6 (Weapons)",
+      "Swift Treadwheel Engine Mk6 (Tools)",
+      "The Emperor's Wings Mk6 (Weapons)",
+      "Walker Sandcrawler Engine Mk6 (Weapons)",
+      "Young Sparky Mk6",
+      "Young Sparky Mk6 (Vehicle Components)"
+    ],
+    "lootTable": [
+      {
+        "item": "Adaptive Holtzman Shield",
+        "source": "Testing Station: The Yellow Bunker I8, 5%; Testing Station: The Agave Farm H2, 5%; Testing Station: The Spice Sanctum F6, 5% (and 7 more)"
+      },
+      {
+        "item": "Burning Blades",
+        "source": "Testing Station: The Yellow Bunker I8, 5%; Testing Station: The Agave Farm H2, 5%; Testing Station: The Spice Sanctum F6, 5% (and 7 more)"
+      },
+      {
+        "item": "Circuit Gauntlets",
+        "source": "Loot Cave C1, 6%; Loot Cave C8, 6%; Loot Cave G3, 6% (and 1 more)"
+      },
+      {
+        "item": "Compact Compactor Mk6",
+        "source": "Loot Cave C1, 6%; Loot Cave C1, 8%; Loot Cave C8, 6% (and 5 more)"
+      },
+      {
+        "item": "Focused Buggy Cutteray Mk6",
+        "source": "Loot Cave C1, 8%; Loot Cave C8, 8%; Loot Cave G3, 8% (and 1 more)"
+      },
+      {
+        "item": "Forge Set Pieces",
+        "source": "Testing Station: The Yellow Bunker I8, 5%; Testing Station: The Agave Farm H2, 5%; Testing Station: The Spice Sanctum F6, 5% (and 7 more)"
+      },
+      {
+        "item": "Kynes's Cutteray",
+        "source": "Loot Cave C1, 6%; Loot Cave C8, 6%; Loot Cave G3, 6% (and 1 more)"
+      },
+      {
+        "item": "Perforator",
+        "source": "Wreck: The Holy Wreck H6, 7%; Wreck: The Command Centre H6, 7%; Wreck: The Walkway I5, 7% (and 3 more)"
+      },
+      {
+        "item": "Power Harness",
+        "source": "Testing Station: The Yellow Bunker I8, 8%; Testing Station: The Agave Farm H2, 8%; Testing Station: The Spice Sanctum F6, 8% (and 7 more)"
+      },
+      {
+        "item": "Regis Disruptor Pistol",
+        "source": "Wreck: The Holy Wreck H6, 6%; Wreck: The Command Centre H6, 6%; Wreck: The Walkway I5, 6% (and 3 more)"
+      },
+      {
+        "item": "Replica Pulse-knife",
+        "source": "Wreck: The Holy Wreck H6, 7%; Wreck: The Command Centre H6, 7%; Wreck: The Walkway I5, 7% (and 3 more)"
+      },
+      {
+        "item": "Replica Pulse-sword",
+        "source": "Wreck: The Holy Wreck H6, 7%; Wreck: The Command Centre H6, 7%; Wreck: The Walkway I5, 7% (and 3 more)"
+      },
+      {
+        "item": "Shellburster",
+        "source": "Wreck: The Holy Wreck H6, 7%; Wreck: The Command Centre H6, 7%; Wreck: The Walkway I5, 7% (and 3 more)"
+      },
+      {
+        "item": "Tabr Softstep Boots",
+        "source": "Loot Cave C1, 4%; Loot Cave C8, 4%; Loot Cave G3, 4% (and 1 more)"
+      },
+      {
+        "item": "Tactical Radiation Suit",
+        "source": "Testing Station: The Yellow Bunker I8, 5%; Testing Station: The Agave Farm H2, 5%; Testing Station: The Spice Sanctum F6, 5% (and 7 more)"
+      },
+      {
+        "item": "Young Sparky Mk6",
+        "source": "Testing Station: The Yellow Bunker I8, 7%; Testing Station: The Agave Farm H2, 7%; Testing Station: The Spice Sanctum F6, 7% (and 7 more)"
+      }
+    ],
+    "status": "live",
+    "note": "Rotation compiled from a third-party community companion tool. This is not an official Funcom data feed; drop rates are community-reported and approximate."
+  },
+  {
+    "weekOf": "2026-09-29",
+    "resetNote": "Weekly Deep Desert reset (local time): North America Tue 10:00 · South America Tue 08:00 · Europe Tue 03:00 · Oceania Mon 19:00 · Asia Mon 21:00 [verified, Funcom]. The ~8–10 hour sandstorm buildup and the wipe at storm peak are a third-party community observation; Funcom has confirmed the weekly reset and the Monday-to-Tuesday storm window but has not published an official buildup duration. [third-party]",
+    "sandstorm": "8–10 hour buildup (third-party) · wipe at storm peak",
+    "grid": {
+      "rows": "A–I",
+      "cols": "1–9",
+      "pveRows": "A–E",
+      "pvpRows": "F–I",
+      "pvpMultiplier": "2.5x multiplier to mining yield and spice harvesting in the PvP instance [verified, Funcom help center]"
+    },
+    "shieldWall": "Fixed along rows A/B",
+    "locations": [
+      {
+        "name": "Wreck of the Eumenes (A1)",
+        "grid": "A1",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck of the Hicetas (A1)",
+        "grid": "A1",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 37 (A2)",
+        "grid": "A2",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Hyperbatas (A2)",
+        "grid": "A2",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck of the Archidamas III (A3)",
+        "grid": "A3",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 185 (A3)",
+        "grid": "A3",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Cycliadas (A3)",
+        "grid": "A3",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 148 (A4)",
+        "grid": "A4",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Dioedas (A4)",
+        "grid": "A4",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck of the Xenophon (A5)",
+        "grid": "A5",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 93 (A5)",
+        "grid": "A5",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Proxenus (A7)",
+        "grid": "A7",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 186 (A8)",
+        "grid": "A8",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Orsippus (A9)",
+        "grid": "A9",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 217 (A9)",
+        "grid": "A9",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Stasanor (A9)",
+        "grid": "A9",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "B3",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "B5",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "C2",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "C5",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "C7",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "C8",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Testing Station: The Water Plant",
+        "grid": "D3",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "D6",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "D8",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "E3",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Testing Station: Spice Silo",
+        "grid": "E6",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Testing Station: Mannequin Manor",
+        "grid": "E8",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "F1",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Testing Station: The Spice Silo",
+        "grid": "F4",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "F7",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck: Deep Dark Wreck",
+        "grid": "G2",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "G3",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "G7",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Wreck: Deep Dark Wreck",
+        "grid": "G8",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Testing Station: The Museum",
+        "grid": "H2",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "H4",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Testing Station: Circular Control Room",
+        "grid": "H8",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Testing Station: The Water Plant",
+        "grid": "H8",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Testing Station: The Forgotten Cells",
+        "grid": "I1",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "I4",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "I5",
+        "note": "Downed wreck site"
+      }
+    ],
+    "mk6Pool": [
+      "Albatross Wing Module Mk6 (Weapons)",
+      "Bigger Buggy Boot Mk6 (Vehicle Components)",
+      "Bluddshot Buggy Engine Mk6 (Garments)",
+      "Collapsible Dew Reaper Mk6 (Garments)",
+      "Compact Compactor Mk6",
+      "Compact Compactor Mk6 (Vehicle Components)",
+      "Filter Extractor Mk6 (Weapons)",
+      "Focused Buggy Cutteray Mk6",
+      "Focused Buggy Cutteray Mk6 (Tools)",
+      "Hummingbird Wing Module Mk6 (Garments)",
+      "Impure Extractor Mk6 (Vehicle Components)",
+      "Mohandis Sandbike Engine Mk6 (Vehicle Components)",
+      "Night Rider Sandbike Boost Mk6 (Garments)",
+      "Rattler Boost Module Mk6 (Vehicle Components)",
+      "Steady Assault Boost Module Mk6 (Vehicle Components)",
+      "Steady Carrier Boost Module Mk6 (Vehicle Components)",
+      "Steady Treadwheel Boost Module Mk6 (Vehicle Components)",
+      "Stormrider Boost Module Mk6 (Weapons)",
+      "Swift Treadwheel Engine Mk6 (Tools)",
+      "The Emperor's Wings Mk6 (Weapons)",
+      "Walker Sandcrawler Engine Mk6 (Weapons)",
+      "Young Sparky Mk6",
+      "Young Sparky Mk6 (Vehicle Components)"
+    ],
+    "lootTable": [
+      {
+        "item": "Adaptive Holtzman Shield",
+        "source": "Testing Station: The Museum H2, 5%; Testing Station: Circular Control Room H8, 5%; Testing Station: Spice Silo E6, 5% (and 6 more)"
+      },
+      {
+        "item": "Burning Blades",
+        "source": "Testing Station: The Museum H2, 5%; Testing Station: Circular Control Room H8, 5%; Testing Station: Spice Silo E6, 5% (and 6 more)"
+      },
+      {
+        "item": "Circuit Gauntlets",
+        "source": "Loot Cave C7, 6%; Loot Cave B3, 6%; Loot Cave G3, 6% (and 1 more)"
+      },
+      {
+        "item": "Compact Compactor Mk6",
+        "source": "Loot Cave C7, 6%; Loot Cave C7, 8%; Loot Cave B3, 6% (and 5 more)"
+      },
+      {
+        "item": "Focused Buggy Cutteray Mk6",
+        "source": "Loot Cave C7, 8%; Loot Cave B3, 8%; Loot Cave G3, 8% (and 1 more)"
+      },
+      {
+        "item": "Forge Set Pieces",
+        "source": "Testing Station: The Museum H2, 5%; Testing Station: Circular Control Room H8, 5%; Testing Station: Spice Silo E6, 5% (and 6 more)"
+      },
+      {
+        "item": "Kynes's Cutteray",
+        "source": "Loot Cave C7, 6%; Loot Cave B3, 6%; Loot Cave G3, 6% (and 1 more)"
+      },
+      {
+        "item": "Perforator",
+        "source": "Wreck: The Walkway I4, 7%; Wreck: Deep Dark Wreck G2, 7%; Wreck: Deep Dark Wreck G8, 7% (and 4 more)"
+      },
+      {
+        "item": "Power Harness",
+        "source": "Testing Station: The Museum H2, 8%; Testing Station: Circular Control Room H8, 8%; Testing Station: Spice Silo E6, 8% (and 6 more)"
+      },
+      {
+        "item": "Regis Disruptor Pistol",
+        "source": "Wreck: The Walkway I4, 6%; Wreck: Deep Dark Wreck G2, 6%; Wreck: Deep Dark Wreck G8, 6% (and 4 more)"
+      },
+      {
+        "item": "Replica Pulse-knife",
+        "source": "Wreck: The Walkway I4, 7%; Wreck: Deep Dark Wreck G2, 7%; Wreck: Deep Dark Wreck G8, 7% (and 4 more)"
+      },
+      {
+        "item": "Replica Pulse-sword",
+        "source": "Wreck: The Walkway I4, 7%; Wreck: Deep Dark Wreck G2, 7%; Wreck: Deep Dark Wreck G8, 7% (and 4 more)"
+      },
+      {
+        "item": "Shellburster",
+        "source": "Wreck: The Walkway I4, 7%; Wreck: Deep Dark Wreck G2, 7%; Wreck: Deep Dark Wreck G8, 7% (and 4 more)"
+      },
+      {
+        "item": "Tabr Softstep Boots",
+        "source": "Loot Cave C7, 4%; Loot Cave B3, 4%; Loot Cave G3, 4% (and 1 more)"
+      },
+      {
+        "item": "Tactical Radiation Suit",
+        "source": "Testing Station: The Museum H2, 5%; Testing Station: Circular Control Room H8, 5%; Testing Station: Spice Silo E6, 5% (and 6 more)"
+      },
+      {
+        "item": "Young Sparky Mk6",
+        "source": "Testing Station: The Museum H2, 7%; Testing Station: Circular Control Room H8, 7%; Testing Station: Spice Silo E6, 7% (and 6 more)"
+      }
+    ],
+    "status": "live",
+    "note": "Rotation compiled from a third-party community companion tool. This is not an official Funcom data feed; drop rates are community-reported and approximate."
+  },
+  {
+    "weekOf": "2026-10-06",
+    "resetNote": "Weekly Deep Desert reset (local time): North America Tue 10:00 · South America Tue 08:00 · Europe Tue 03:00 · Oceania Mon 19:00 · Asia Mon 21:00 [verified, Funcom]. The ~8–10 hour sandstorm buildup and the wipe at storm peak are a third-party community observation; Funcom has confirmed the weekly reset and the Monday-to-Tuesday storm window but has not published an official buildup duration. [third-party]",
+    "sandstorm": "8–10 hour buildup (third-party) · wipe at storm peak",
+    "grid": {
+      "rows": "A–I",
+      "cols": "1–9",
+      "pveRows": "A–E",
+      "pvpRows": "F–I",
+      "pvpMultiplier": "2.5x multiplier to mining yield and spice harvesting in the PvP instance [verified, Funcom help center]"
+    },
+    "shieldWall": "Fixed along rows A/B",
+    "locations": [
+      {
+        "name": "Wreck of the Eumenes (A1)",
+        "grid": "A1",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck of the Hicetas (A1)",
+        "grid": "A1",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 37 (A2)",
+        "grid": "A2",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Hyperbatas (A2)",
+        "grid": "A2",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck of the Archidamas III (A3)",
+        "grid": "A3",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 185 (A3)",
+        "grid": "A3",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Cycliadas (A3)",
+        "grid": "A3",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 148 (A4)",
+        "grid": "A4",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Dioedas (A4)",
+        "grid": "A4",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck of the Xenophon (A5)",
+        "grid": "A5",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 93 (A5)",
+        "grid": "A5",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Proxenus (A7)",
+        "grid": "A7",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 186 (A8)",
+        "grid": "A8",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Orsippus (A9)",
+        "grid": "A9",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 217 (A9)",
+        "grid": "A9",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Stasanor (A9)",
+        "grid": "A9",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "B4",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "B5",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "C2",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "C5",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "C8",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Testing Station: The Yellow Bunker",
+        "grid": "D1",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Testing Station: The Hidden Garden",
+        "grid": "D4",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "D6",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Testing Station: Cactus Chaos",
+        "grid": "D7",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "D8",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "E1",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "E3",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Testing Station: Mannequin Manor",
+        "grid": "E8",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "F1",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Testing Station: The Spice Silo",
+        "grid": "F4",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "F5",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "F7",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "F8",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "G3",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Testing Station: The Living Quarters",
+        "grid": "G4",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "G5",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "G7",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Testing Station: The Agave Farm",
+        "grid": "G8",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "H4",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Testing Station: The Water Plant",
+        "grid": "H8",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Testing Station: The Forgotten Cells",
+        "grid": "I1",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Testing Station: The Forgotten Cells",
+        "grid": "I2",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "I5",
+        "note": "Downed wreck site"
+      }
+    ],
+    "mk6Pool": [
+      "Albatross Wing Module Mk6 (Weapons)",
+      "Bigger Buggy Boot Mk6 (Vehicle Components)",
+      "Bluddshot Buggy Engine Mk6 (Garments)",
+      "Collapsible Dew Reaper Mk6 (Garments)",
+      "Compact Compactor Mk6",
+      "Compact Compactor Mk6 (Vehicle Components)",
+      "Filter Extractor Mk6 (Weapons)",
+      "Focused Buggy Cutteray Mk6",
+      "Focused Buggy Cutteray Mk6 (Tools)",
+      "Hummingbird Wing Module Mk6 (Garments)",
+      "Impure Extractor Mk6 (Vehicle Components)",
+      "Mohandis Sandbike Engine Mk6 (Vehicle Components)",
+      "Night Rider Sandbike Boost Mk6 (Garments)",
+      "Rattler Boost Module Mk6 (Vehicle Components)",
+      "Steady Assault Boost Module Mk6 (Vehicle Components)",
+      "Steady Carrier Boost Module Mk6 (Vehicle Components)",
+      "Steady Treadwheel Boost Module Mk6 (Vehicle Components)",
+      "Stormrider Boost Module Mk6 (Weapons)",
+      "Swift Treadwheel Engine Mk6 (Tools)",
+      "Walker Sandcrawler Engine Mk6 (Weapons)",
+      "Young Sparky Mk6",
+      "Young Sparky Mk6 (Vehicle Components)"
+    ],
+    "lootTable": [
+      {
+        "item": "Adaptive Holtzman Shield",
+        "source": "Testing Station: The Forgotten Cells I2, 5%; Testing Station: The Living Quarters G4, 5%; Testing Station: The Agave Farm G8, 5% (and 7 more)"
+      },
+      {
+        "item": "Burning Blades",
+        "source": "Testing Station: The Forgotten Cells I2, 5%; Testing Station: The Living Quarters G4, 5%; Testing Station: The Agave Farm G8, 5% (and 7 more)"
+      },
+      {
+        "item": "Circuit Gauntlets",
+        "source": "Loot Cave E1, 6%; Loot Cave B5, 6%; Loot Cave G3, 6% (and 1 more)"
+      },
+      {
+        "item": "Compact Compactor Mk6",
+        "source": "Loot Cave E1, 6%; Loot Cave E1, 8%; Loot Cave B5, 6% (and 5 more)"
+      },
+      {
+        "item": "Focused Buggy Cutteray Mk6",
+        "source": "Loot Cave E1, 8%; Loot Cave B5, 8%; Loot Cave G3, 8% (and 1 more)"
+      },
+      {
+        "item": "Forge Set Pieces",
+        "source": "Testing Station: The Forgotten Cells I2, 5%; Testing Station: The Living Quarters G4, 5%; Testing Station: The Agave Farm G8, 5% (and 7 more)"
+      },
+      {
+        "item": "Kynes's Cutteray",
+        "source": "Loot Cave E1, 6%; Loot Cave B5, 6%; Loot Cave G3, 6% (and 1 more)"
+      },
+      {
+        "item": "Perforator",
+        "source": "Wreck: The Walkway F5, 7%; Wreck: The Walkway F8, 7%; Wreck: The Walkway E3, 7% (and 4 more)"
+      },
+      {
+        "item": "Power Harness",
+        "source": "Testing Station: The Forgotten Cells I2, 8%; Testing Station: The Living Quarters G4, 8%; Testing Station: The Agave Farm G8, 8% (and 7 more)"
+      },
+      {
+        "item": "Regis Disruptor Pistol",
+        "source": "Wreck: The Walkway F5, 6%; Wreck: The Walkway F8, 6%; Wreck: The Walkway E3, 6% (and 4 more)"
+      },
+      {
+        "item": "Replica Pulse-knife",
+        "source": "Wreck: The Walkway F5, 7%; Wreck: The Walkway F8, 7%; Wreck: The Walkway E3, 7% (and 4 more)"
+      },
+      {
+        "item": "Replica Pulse-sword",
+        "source": "Wreck: The Walkway F5, 7%; Wreck: The Walkway F8, 7%; Wreck: The Walkway E3, 7% (and 4 more)"
+      },
+      {
+        "item": "Shellburster",
+        "source": "Wreck: The Walkway F5, 7%; Wreck: The Walkway F8, 7%; Wreck: The Walkway E3, 7% (and 4 more)"
+      },
+      {
+        "item": "Tabr Softstep Boots",
+        "source": "Loot Cave E1, 4%; Loot Cave B5, 4%; Loot Cave G3, 4% (and 1 more)"
+      },
+      {
+        "item": "Tactical Radiation Suit",
+        "source": "Testing Station: The Forgotten Cells I2, 5%; Testing Station: The Living Quarters G4, 5%; Testing Station: The Agave Farm G8, 5% (and 7 more)"
+      },
+      {
+        "item": "Young Sparky Mk6",
+        "source": "Testing Station: The Forgotten Cells I2, 7%; Testing Station: The Living Quarters G4, 7%; Testing Station: The Agave Farm G8, 7% (and 7 more)"
+      }
+    ],
+    "status": "live",
+    "note": "Rotation compiled from a third-party community companion tool. This is not an official Funcom data feed; drop rates are community-reported and approximate."
+  },
+  {
+    "weekOf": "2026-10-13",
+    "resetNote": "Weekly Deep Desert reset (local time): North America Tue 10:00 · South America Tue 08:00 · Europe Tue 03:00 · Oceania Mon 19:00 · Asia Mon 21:00 [verified, Funcom]. The ~8–10 hour sandstorm buildup and the wipe at storm peak are a third-party community observation; Funcom has confirmed the weekly reset and the Monday-to-Tuesday storm window but has not published an official buildup duration. [third-party]",
+    "sandstorm": "8–10 hour buildup (third-party) · wipe at storm peak",
+    "grid": {
+      "rows": "A–I",
+      "cols": "1–9",
+      "pveRows": "A–E",
+      "pvpRows": "F–I",
+      "pvpMultiplier": "2.5x multiplier to mining yield and spice harvesting in the PvP instance [verified, Funcom help center]"
+    },
+    "shieldWall": "Fixed along rows A/B",
+    "locations": [
+      {
+        "name": "Wreck of the Eumenes (A1)",
+        "grid": "A1",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck of the Hicetas (A1)",
+        "grid": "A1",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 37 (A2)",
+        "grid": "A2",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Hyperbatas (A2)",
+        "grid": "A2",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck of the Archidamas III (A3)",
+        "grid": "A3",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 185 (A3)",
+        "grid": "A3",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Cycliadas (A3)",
+        "grid": "A3",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 148 (A4)",
+        "grid": "A4",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Dioedas (A4)",
+        "grid": "A4",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck of the Xenophon (A5)",
+        "grid": "A5",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 93 (A5)",
+        "grid": "A5",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Proxenus (A7)",
+        "grid": "A7",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 186 (A8)",
+        "grid": "A8",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Orsippus (A9)",
+        "grid": "A9",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 217 (A9)",
+        "grid": "A9",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Stasanor (A9)",
+        "grid": "A9",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "B5",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "B5",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Testing Station: The Forgotten Cells",
+        "grid": "C2",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "C2",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "C5",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "C8",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Testing Station: The Furance",
+        "grid": "D4",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "D6",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "D7",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "D8",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "E3",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Testing Station: Mannequin Manor",
+        "grid": "E8",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "F1",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "F2",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "F4",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Testing Station: The Spice Silo",
+        "grid": "F4",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Testing Station: The Museum",
+        "grid": "F6",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "F7",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "G3",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "G7",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "H4",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "H6",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Testing Station: The Control Room",
+        "grid": "H7",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Testing Station: The Water Plant",
+        "grid": "H8",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "I1",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Testing Station: The Forgotten Cells",
+        "grid": "I1",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "I5",
+        "note": "Downed wreck site"
+      }
+    ],
+    "mk6Pool": [
+      "Albatross Wing Module Mk6 (Weapons)",
+      "Bigger Buggy Boot Mk6 (Vehicle Components)",
+      "Bluddshot Buggy Engine Mk6 (Vehicle Components)",
+      "Bluddshot Buggy Engine Mk6 (Weapons)",
+      "Compact Compactor Mk6",
+      "Focused Buggy Cutteray Mk6",
+      "Hummingbird Wing Module Mk6 (Garments)",
+      "Steady Assault Boost Module Mk6 (Vehicle Components)",
+      "Steady Carrier Boost Module Mk6 (Vehicle Components)",
+      "Steady Treadwheel Boost Module Mk6 (Tools)",
+      "Stormrider Boost Module Mk6 (Weapons)",
+      "The Emperor's Wings Mk6 (Weapons)",
+      "Young Sparky Mk6",
+      "Young Sparky Mk6 (Garments)",
+      "Young Sparky Mk6 (Vehicle Components)"
+    ],
+    "lootTable": [
+      {
+        "item": "Adaptive Holtzman Shield",
+        "source": "Testing Station: The Control Room H7, 5%; Testing Station: The Museum F6, 5%; Testing Station: The Furance D4, 5% (and 5 more)"
+      },
+      {
+        "item": "Burning Blades",
+        "source": "Testing Station: The Control Room H7, 5%; Testing Station: The Museum F6, 5%; Testing Station: The Furance D4, 5% (and 5 more)"
+      },
+      {
+        "item": "Circuit Gauntlets",
+        "source": "Loot Cave G3, 6%; Loot Cave D8, 6%"
+      },
+      {
+        "item": "Compact Compactor Mk6",
+        "source": "Loot Cave G3, 6%; Loot Cave G3, 8%; Loot Cave D8, 6% (and 1 more)"
+      },
+      {
+        "item": "Focused Buggy Cutteray Mk6",
+        "source": "Loot Cave G3, 8%; Loot Cave D8, 8%"
+      },
+      {
+        "item": "Forge Set Pieces",
+        "source": "Testing Station: The Control Room H7, 5%; Testing Station: The Museum F6, 5%; Testing Station: The Furance D4, 5% (and 5 more)"
+      },
+      {
+        "item": "Kynes's Cutteray",
+        "source": "Loot Cave G3, 6%; Loot Cave D8, 6%"
+      },
+      {
+        "item": "Perforator",
+        "source": "Wreck: The Walkway I1, 7%; Wreck: The Walkway H6, 7%; Wreck: The Walkway F2, 7% (and 7 more)"
+      },
+      {
+        "item": "Power Harness",
+        "source": "Testing Station: The Control Room H7, 8%; Testing Station: The Museum F6, 8%; Testing Station: The Furance D4, 8% (and 5 more)"
+      },
+      {
+        "item": "Regis Disruptor Pistol",
+        "source": "Wreck: The Walkway I1, 6%; Wreck: The Walkway H6, 6%; Wreck: The Walkway F2, 6% (and 7 more)"
+      },
+      {
+        "item": "Replica Pulse-knife",
+        "source": "Wreck: The Walkway I1, 7%; Wreck: The Walkway H6, 7%; Wreck: The Walkway F2, 7% (and 7 more)"
+      },
+      {
+        "item": "Replica Pulse-sword",
+        "source": "Wreck: The Walkway I1, 7%; Wreck: The Walkway H6, 7%; Wreck: The Walkway F2, 7% (and 7 more)"
+      },
+      {
+        "item": "Shellburster",
+        "source": "Wreck: The Walkway I1, 7%; Wreck: The Walkway H6, 7%; Wreck: The Walkway F2, 7% (and 7 more)"
+      },
+      {
+        "item": "Tabr Softstep Boots",
+        "source": "Loot Cave G3, 4%; Loot Cave D8, 4%"
+      },
+      {
+        "item": "Tactical Radiation Suit",
+        "source": "Testing Station: The Control Room H7, 5%; Testing Station: The Museum F6, 5%; Testing Station: The Furance D4, 5% (and 5 more)"
+      },
+      {
+        "item": "Young Sparky Mk6",
+        "source": "Testing Station: The Control Room H7, 7%; Testing Station: The Museum F6, 7%; Testing Station: The Furance D4, 7% (and 5 more)"
+      }
+    ],
+    "status": "live",
+    "note": "Rotation compiled from a third-party community companion tool. This is not an official Funcom data feed; drop rates are community-reported and approximate."
+  },
+  {
+    "weekOf": "2026-10-20",
+    "resetNote": "Weekly Deep Desert reset (local time): North America Tue 10:00 · South America Tue 08:00 · Europe Tue 03:00 · Oceania Mon 19:00 · Asia Mon 21:00 [verified, Funcom]. The ~8–10 hour sandstorm buildup and the wipe at storm peak are a third-party community observation; Funcom has confirmed the weekly reset and the Monday-to-Tuesday storm window but has not published an official buildup duration. [third-party]",
+    "sandstorm": "8–10 hour buildup (third-party) · wipe at storm peak",
+    "grid": {
+      "rows": "A–I",
+      "cols": "1–9",
+      "pveRows": "A–E",
+      "pvpRows": "F–I",
+      "pvpMultiplier": "2.5x multiplier to mining yield and spice harvesting in the PvP instance [verified, Funcom help center]"
+    },
+    "shieldWall": "Fixed along rows A/B",
+    "locations": [
+      {
+        "name": "Wreck of the Eumenes (A1)",
+        "grid": "A1",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck of the Hicetas (A1)",
+        "grid": "A1",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 37 (A2)",
+        "grid": "A2",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Hyperbatas (A2)",
+        "grid": "A2",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck of the Archidamas III (A3)",
+        "grid": "A3",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 185 (A3)",
+        "grid": "A3",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Cycliadas (A3)",
+        "grid": "A3",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 148 (A4)",
+        "grid": "A4",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Dioedas (A4)",
+        "grid": "A4",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Wreck of the Xenophon (A5)",
+        "grid": "A5",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 93 (A5)",
+        "grid": "A5",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Proxenus (A7)",
+        "grid": "A7",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 186 (A8)",
+        "grid": "A8",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Orsippus (A9)",
+        "grid": "A9",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Imperial Testing Station 217 (A9)",
+        "grid": "A9",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck of the Stasanor (A9)",
+        "grid": "A9",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "B5",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "C2",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "C5",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "C8",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "D6",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "D8",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "E3",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Testing Station: Mannequin Manor",
+        "grid": "E8",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "F1",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Testing Station: The Spice Silo",
+        "grid": "F4",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "F7",
+        "note": "Downed wreck site"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "G3",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "G7",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Loot Cave",
+        "grid": "H4",
+        "note": "Deep Desert loot cave"
+      },
+      {
+        "name": "Testing Station: The Water Plant",
+        "grid": "H8",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Testing Station: The Forgotten Cells",
+        "grid": "I1",
+        "note": "Buried Testing Station"
+      },
+      {
+        "name": "Wreck: The Walkway",
+        "grid": "I5",
+        "note": "Downed wreck site"
+      }
+    ],
+    "mk6Pool": [
+      "Albatross Wing Module Mk6 (Weapons)",
+      "Bigger Buggy Boot Mk6 (Vehicle Components)",
+      "Bluddshot Buggy Engine Mk6 (Garments)",
+      "Collapsible Dew Reaper Mk6 (Garments)",
+      "Compact Compactor Mk6",
+      "Compact Compactor Mk6 (Vehicle Components)",
+      "Filter Extractor Mk6 (Weapons)",
+      "Focused Buggy Cutteray Mk6",
+      "Focused Buggy Cutteray Mk6 (Tools)",
+      "Hummingbird Wing Module Mk6 (Garments)",
+      "Impure Extractor Mk6 (Vehicle Components)",
+      "Mohandis Sandbike Engine Mk6 (Vehicle Components)",
+      "Night Rider Sandbike Boost Mk6 (Garments)",
+      "Rattler Boost Module Mk6 (Vehicle Components)",
+      "Steady Assault Boost Module Mk6 (Vehicle Components)",
+      "Steady Carrier Boost Module Mk6 (Vehicle Components)",
+      "Steady Treadwheel Boost Module Mk6 (Vehicle Components)",
+      "Stormrider Boost Module Mk6 (Weapons)",
+      "Swift Treadwheel Engine Mk6 (Tools)",
+      "The Emperor's Wings Mk6 (Weapons)",
+      "Walker Sandcrawler Engine Mk6 (Weapons)",
+      "Young Sparky Mk6",
+      "Young Sparky Mk6 (Vehicle Components)"
+    ],
+    "lootTable": [
+      {
+        "item": "Adaptive Holtzman Shield",
+        "source": "Testing Station: The Forgotten Cells I1, 5%; Testing Station: The Water Plant H8, 5%; Testing Station: The Spice Silo F4, 5% (and 5 more)"
+      },
+      {
+        "item": "Burning Blades",
+        "source": "Testing Station: The Forgotten Cells I1, 5%; Testing Station: The Water Plant H8, 5%; Testing Station: The Spice Silo F4, 5% (and 5 more)"
+      },
+      {
+        "item": "Circuit Gauntlets",
+        "source": "Loot Cave G3, 6%; Loot Cave D8, 6%; Loot Cave G3, 6% (and 1 more)"
+      },
+      {
+        "item": "Compact Compactor Mk6",
+        "source": "Loot Cave G3, 6%; Loot Cave G3, 8%; Loot Cave D8, 6% (and 5 more)"
+      },
+      {
+        "item": "Focused Buggy Cutteray Mk6",
+        "source": "Loot Cave G3, 8%; Loot Cave D8, 8%; Loot Cave G3, 8% (and 1 more)"
+      },
+      {
+        "item": "Forge Set Pieces",
+        "source": "Testing Station: The Forgotten Cells I1, 5%; Testing Station: The Water Plant H8, 5%; Testing Station: The Spice Silo F4, 5% (and 5 more)"
+      },
+      {
+        "item": "Kynes's Cutteray",
+        "source": "Loot Cave G3, 6%; Loot Cave D8, 6%; Loot Cave G3, 6% (and 1 more)"
+      },
+      {
+        "item": "Perforator",
+        "source": "Wreck: The Walkway I5, 7%; Wreck: The Walkway F7, 7%; Wreck: The Walkway E3, 7% (and 5 more)"
+      },
+      {
+        "item": "Power Harness",
+        "source": "Testing Station: The Forgotten Cells I1, 8%; Testing Station: The Water Plant H8, 8%; Testing Station: The Spice Silo F4, 8% (and 5 more)"
+      },
+      {
+        "item": "Regis Disruptor Pistol",
+        "source": "Wreck: The Walkway I5, 6%; Wreck: The Walkway F7, 6%; Wreck: The Walkway E3, 6% (and 5 more)"
+      },
+      {
+        "item": "Replica Pulse-knife",
+        "source": "Wreck: The Walkway I5, 7%; Wreck: The Walkway F7, 7%; Wreck: The Walkway E3, 7% (and 5 more)"
+      },
+      {
+        "item": "Replica Pulse-sword",
+        "source": "Wreck: The Walkway I5, 7%; Wreck: The Walkway F7, 7%; Wreck: The Walkway E3, 7% (and 5 more)"
+      },
+      {
+        "item": "Shellburster",
+        "source": "Wreck: The Walkway I5, 7%; Wreck: The Walkway F7, 7%; Wreck: The Walkway E3, 7% (and 5 more)"
+      },
+      {
+        "item": "Tabr Softstep Boots",
+        "source": "Loot Cave G3, 4%; Loot Cave D8, 4%; Loot Cave G3, 4% (and 1 more)"
+      },
+      {
+        "item": "Tactical Radiation Suit",
+        "source": "Testing Station: The Forgotten Cells I1, 5%; Testing Station: The Water Plant H8, 5%; Testing Station: The Spice Silo F4, 5% (and 5 more)"
+      },
+      {
+        "item": "Young Sparky Mk6",
+        "source": "Testing Station: The Forgotten Cells I1, 7%; Testing Station: The Water Plant H8, 7%; Testing Station: The Spice Silo F4, 7% (and 5 more)"
+      }
+    ],
+    "status": "live",
+    "note": "Rotation compiled from a third-party community companion tool. This is not an official Funcom data feed; drop rates are community-reported and approximate."
+  }
+]
